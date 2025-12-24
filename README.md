@@ -1,0 +1,1 @@
+This is a simple AI resume checker I built to check the skills of a job applicant to those preferred or required by the job. It computes a score and returns the matching/missing skills.

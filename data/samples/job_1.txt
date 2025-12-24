@@ -1,0 +1,27 @@
+Job Title: Machine Learning Engineer Intern
+
+Company Overview
+We are a fast-growing AI startup building intelligent tools for hiring, analytics, and automation.
+
+Responsibilities
+• Develop and train machine learning models in Python
+• Work with structured and unstructured data
+• Implement NLP pipelines for text-based applications
+• Collaborate with engineers to deploy ML solutions
+
+Required Skills
+• Python
+• Machine Learning
+• Natural Language Processing (NLP)
+• Pandas and NumPy
+• scikit-learn
+• Git
+• Linux
+
+Preferred Skills
+• Deep Learning
+• PyTorch or TensorFlow
+• Docker
+• Cloud platforms (AWS, GCP, or Azure)
+• FastAPI or Flask
+• Kubernetes

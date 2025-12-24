@@ -1,0 +1,31 @@
+John Doe
+Email: johndoe@email.com | GitHub: github.com/johndoe
+
+Education
+Bachelor of Science in Computer Science
+Expected Graduation: 2026
+
+Skills
+Python, Java, SQL, JavaScript
+Pandas, NumPy, scikit-learn
+Machine Learning, Data Analysis
+Git, Linux
+
+Experience
+Machine Learning Intern
+June 2024 – August 2024
+
+• Built and evaluated machine learning models using scikit-learn
+• Performed data cleaning and feature engineering with pandas and NumPy
+• Analyzed large datasets using SQL
+• Collaborated with team members using Git and GitHub
+• Deployed small ML prototypes locally for experimentation
+
+Projects
+AI Resume Matcher
+• Implemented NLP-based resume screening using TF-IDF and cosine similarity
+• Compared resumes and job descriptions to compute match scores
+• Identified missing skills based on job requirements
+
+Additional
+Strong interest in applied machine learning and real-world AI systems
